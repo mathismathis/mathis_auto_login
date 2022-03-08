@@ -6,6 +6,8 @@ url1='https://www.linkedin.com/in/mathis-t-794254222/'
 url2='https://www.youtube.com/channel/UChAqVuW3nJCWdbbJOYEP00Q'
 url3='https://www.youtube.com/channel/UChAqVuW3nJCWdbbJOYEP00Q'
 
+
+
 def instagram():
     webbrowser.open(url)
 def linkedin():
